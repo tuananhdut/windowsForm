@@ -1,0 +1,12 @@
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\102210050_NguyenTuanAnh.csproj.AssemblyReference.cache
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\102210050_NguyenTuanAnh.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\_102210050_NguyenTuanAnh.DetailForm.resources
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\_102210050_NguyenTuanAnh.MainForm.resources
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\_102210050_NguyenTuanAnh.Properties.Resources.resources
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\102210050_NguyenTuanAnh.csproj.GenerateResource.cache
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\102210050_NguyenTuanAnh.csproj.CoreCompileInputs.cache
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\bin\Debug\102210050_NguyenTuanAnh.exe.config
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\bin\Debug\102210050_NguyenTuanAnh.exe
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\bin\Debug\102210050_NguyenTuanAnh.pdb
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\102210050_NguyenTuanAnh.exe
+C:\Users\tuanh\source\repos\102210050_NguyenTuanAnh\102210050_NguyenTuanAnh\obj\Debug\102210050_NguyenTuanAnh.pdb
