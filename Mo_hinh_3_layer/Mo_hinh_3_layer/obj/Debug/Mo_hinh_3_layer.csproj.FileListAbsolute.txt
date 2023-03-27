@@ -1,0 +1,12 @@
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.csproj.AssemblyReference.cache
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.Properties.Resources.resources
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.VIEW.Fmain.resources
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.csproj.GenerateResource.cache
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.csproj.CoreCompileInputs.cache
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\bin\Debug\Mo_hinh_3_layer.exe.config
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\bin\Debug\Mo_hinh_3_layer.exe
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\bin\Debug\Mo_hinh_3_layer.pdb
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.exe
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.pdb
+C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.VIEW.Form1.resources
