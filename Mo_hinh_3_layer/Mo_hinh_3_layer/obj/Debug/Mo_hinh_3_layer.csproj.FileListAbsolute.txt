@@ -10,3 +10,15 @@ C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\bin\Debug\Mo_hinh_3_
 C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.exe
 C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.pdb
 C:\Users\tuanh\source\repos\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.VIEW.Form1.resources
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\bin\Debug\Mo_hinh_3_layer.exe.config
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\bin\Debug\Mo_hinh_3_layer.exe
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\bin\Debug\Mo_hinh_3_layer.pdb
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.csproj.AssemblyReference.cache
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.csproj.SuggestedBindingRedirects.cache
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.Properties.Resources.resources
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.VIEW.Fmain.resources
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.VIEW.Form1.resources
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.csproj.GenerateResource.cache
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.csproj.CoreCompileInputs.cache
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.exe
+D:\windowsForm\Mo_hinh_3_layer\Mo_hinh_3_layer\obj\Debug\Mo_hinh_3_layer.pdb

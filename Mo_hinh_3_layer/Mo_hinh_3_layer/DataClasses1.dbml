@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLSV_thre_layer" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-P21P68D\SQLEXPRESS;Initial Catalog=QLSV_thre_layer;Integrated Security=True" SettingsObjectName="Mo_hinh_3_layer.Properties.Settings" SettingsPropertyName="QLSV_thre_layerConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Lop" Member="Lops">
+    <Type Name="Lop">
+      <Column Name="MaLop" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenLop" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Association Name="Lop_SinhVien" Member="SinhViens" ThisKey="MaLop" OtherKey="MaLop" Type="SinhVien" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SinhVien" Member="SinhViens">
+    <Type Name="SinhVien">
+      <Column Name="MaSV" Type="System.String" DbType="VarChar(39) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSV" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="GioiTinh" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DiemTB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MaLop" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="anh" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="hoso" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="cccd" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Lop_SinhVien" Member="Lop" ThisKey="MaLop" OtherKey="MaLop" Type="Lop" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

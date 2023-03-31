@@ -1,0 +1,17 @@
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.csproj.AssemblyReference.cache
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.MainForm.resources
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.Properties.Resources.resources
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.csproj.GenerateResource.cache
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.csproj.CoreCompileInputs.cache
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\bin\Debug\QLSV_DataBasefirst.exe.config
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\bin\Debug\QLSV_DataBasefirst.exe
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\bin\Debug\QLSV_DataBasefirst.pdb
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\bin\Debug\EntityFramework.dll
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\bin\Debug\EntityFramework.xml
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.csproj.CopyComplete
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.exe
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.pdb
+C:\Users\tuanh\source\repos\QLSV_DataBasefirst\QLSV_DataBasefirst\obj\Debug\QLSV_DataBasefirst.DetailForm.resources
